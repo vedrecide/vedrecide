@@ -1,4 +1,20 @@
-### Hi there 👋
+## Hi there, I am Lollipop (@1olipop) 👋
+
+### 😄 About me..
+
+A guy who is passionate about coding different and creative stuff with whole lots of idea to come through with other flexible languages..
+Also I love graphic designing..
+
+### 📫 Current projects & goals...
+
+- Working on a public discord bot in discord.py
+- Helping my [dad](https://github.com/mdarif) out with some ecommerce stuff
+- Trying to master different langs
+- Making my website more creative, [view it here](https://1olipop.ml)
+
+### 💬 How to connect...
+
+You can connect with me via [my discord guild](https://discord.gg/UkUbftJqcN)..
 
 <!--
 **1olipop/1olipop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
