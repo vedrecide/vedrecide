@@ -13,13 +13,13 @@ Also I love graphic designing..
 - Trying to master different langs
 - Making my website more creative, [view it here](https://1olipop.ml)
 
-### 💬 How to connect...
-
-You can connect with me via [my discord guild](https://discord.gg/UkUbftJqcN)..
-
 ### 🌱 Github stats..
 
 [![Lollipop's GitHub stats](https://github-readme-stats.vercel.app/api?username=1olipop&show_icons=true)](https://github.com/1olipop/github-readme-stats)
+
+### 💬 Lets connect...
+
+You can connect with me via [my discord guild](https://discord.gg/UkUbftJqcN) or [twitter direct messages](https://twitter.com/1olipop)
 
 <!--
 **1olipop/1olipop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
