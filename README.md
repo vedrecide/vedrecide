@@ -17,6 +17,10 @@ Also I love graphic designing..
 
 You can connect with me via [my discord guild](https://discord.gg/UkUbftJqcN)..
 
+### Github stats..
+
+[![Lollipop's GitHub stats](https://github-readme-stats.vercel.app/api?username=1olipop)](https://github.com/1olipop/github-readme-stats)
+
 <!--
 **1olipop/1olipop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
