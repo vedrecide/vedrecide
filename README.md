@@ -15,7 +15,7 @@ Also I love graphic designing..
 
 ### 🌱  My Github stats..
 
-[![Lollipop's GitHub stats](https://github-readme-stats.vercel.app/api?username=1olipop&show_icons=true&hide_title=true)](https://github.com/1olipop/github-readme-stats)
+[![Lollipop's GitHub stats](https://github-readme-stats.vercel.app/api?username=1olipop&show_icons=true&hide_title=true&disable_animations=false)](https://github.com/1olipop/github-readme-stats)
 
 ### 💬  Lets connect...
 
