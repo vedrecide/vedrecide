@@ -1,4 +1,4 @@
-## Hi there, I am Rayyan (@1olipop) 👋
+## Hi there, I am Rayyan a.k.a Lollipop (@1olipop) 👋
 
 ### 😄  About me..
 
