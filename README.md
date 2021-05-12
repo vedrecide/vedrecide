@@ -1,10 +1,8 @@
-## Hi there, I am Lollipop (@1olipop) 👋
+## Hi there, I am Rayyan (@1olipop) 👋
 
 ### 😄  About me..
 
 A guy who is passionate about coding different and creative stuff with whole lot of ideas to come through with other flexible languages..
-
-Also I love graphic designing..
 
 ### 📫  Current projects & goals...
 
