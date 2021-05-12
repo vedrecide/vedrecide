@@ -17,7 +17,7 @@ A guy who is passionate about coding different and creative stuff with whole lot
 
 ### 💬  Lets connect...
 
-You can connect with me via [my discord guild](https://discord.gg/UkUbftJqcN) or [twitter direct messages](https://twitter.com/1olipop)
+You can connect with me via [my discord guild](https://discord.gg/XJcThGs4Pu) or [twitter direct messages](https://twitter.com/1olipop)
 
 <!--
 **1olipop/1olipop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
