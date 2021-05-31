@@ -9,7 +9,7 @@ A guy who is passionate about coding different and creative stuff with whole lot
 - Working on a public discord bot in [discord.py](https://discordpy.readthedocs.io)
 - Helping my [dad](https://github.com/mdarif) out with some ecommerce stuff
 - Trying to master different langs
-- Making my website more creative, [view it here](https://1olipop.ml)
+- Making my website more creative, Nope, wouldn't let you view because it gone cringe ;(
 
 ### 🌱  My Github stats..
 
