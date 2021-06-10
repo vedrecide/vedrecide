@@ -8,7 +8,7 @@
 
 ### 💬 Connect
 
-[![Discord](https://discord.gg/XJcThGs4Pu)]<br>
+![Discord](https://discord.gg/XJcThGs4Pu)(https://discord.gg/XJcThGs4Pu)<br>
 [![Twitter](https://emoji.gg/assets/emoji/7474_twitter.png)](https://twitter.com/1olipop)
 
 <!--
