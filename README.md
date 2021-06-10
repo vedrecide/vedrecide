@@ -3,7 +3,7 @@
 (He/Him) A guy who is passionate about coding different and creative stuff with whole lot of ideas to come through with other flexible languages including Python, Javascript, etc (probably)..
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=1olipop&show_icons=true&theme=cobalt)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1olipop&layout=compact)](https://github.com/1olipop/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1olipop&layout=compact?theme=cobalt)](https://github.com/1olipop/github-readme-stats)
 
 ### 💬 Connect
 
