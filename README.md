@@ -7,8 +7,8 @@
 
 ### 💬 Connect
 
-[Discord Guild](https://discord.gg/XJcThGs4Pu)\n
-[Twitter](https://twitter.com/1olipop)
+[![Discord](https://emoji.gg/assets/emoji/7112-discord-canary-ico.png)](https://discord.gg/XJcThGs4Pu)
+[![Twitter](https://emoji.gg/assets/emoji/7474_twitter.png)](https://twitter.com/1olipop)
 
 <!--
 **1olipop/1olipop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
