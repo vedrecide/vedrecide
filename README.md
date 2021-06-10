@@ -8,8 +8,8 @@
 
 # 💬 Connect
 
-[![Discord][Discord](./imgs/smh.png)](https://discord.gg/XJcThGs4Pu)<br>
-[![Twitter](https://emoji.gg/assets/emoji/7474_twitter.png)](https://twitter.com/1olipop)
+[![Twitter](https://emoji.gg/assets/emoji/7474_twitter.png)](https://twitter.com/1olipop)<br>
+Or maybe [![Discord?]](https://discord.gg/XJcThGs4Pu)
 
 <!--
 **1olipop/1olipop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
