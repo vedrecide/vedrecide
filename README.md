@@ -7,7 +7,7 @@
 
 ### 💬 Connect
 
-[![Discord](https://emoji.gg/assets/emoji/7112-discord-canary-ico.png)](https://discord.gg/XJcThGs4Pu)
+[![Discord](https://cdn.discordapp.com/attachments/830759488687570964/852396649769730048/discord.png)](https://discord.gg/XJcThGs4Pu)
 [![Twitter](https://emoji.gg/assets/emoji/7474_twitter.png)](https://twitter.com/1olipop)
 
 <!--
