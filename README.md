@@ -7,7 +7,7 @@
 
 ### 💬 Connect
 
-[Discord Guild](https://discord.gg/XJcThGs4Pu)
+[Discord Guild](https://discord.gg/XJcThGs4Pu)\n
 [Twitter](https://twitter.com/1olipop)
 
 <!--
