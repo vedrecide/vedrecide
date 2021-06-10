@@ -1,4 +1,4 @@
-## 👋 About 
+# 👋 About 
 
 (He/Him) A guy who is passionate about coding different and creative stuff with whole lot of ideas to come through with other flexible languages including Python, Javascript, etc (probably)..
 
@@ -6,9 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1olipop&layout=compact)](https://github.com/1olipop/github-readme-stats)
 
-### 💬 Connect
+# 💬 Connect
 
-[![Discord](./imgs/deescord.png)](https://discord.gg/XJcThGs4Pu)<br>
+[![Discord](./imgs/deescord.png?size=100)](https://discord.gg/XJcThGs4Pu)<br>
 [![Twitter](https://emoji.gg/assets/emoji/7474_twitter.png)](https://twitter.com/1olipop)
 
 <!--
