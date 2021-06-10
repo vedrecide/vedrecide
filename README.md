@@ -3,11 +3,12 @@
 (He/Him) A guy who is passionate about coding different and creative stuff with whole lot of ideas to come through with other flexible languages including Python, Javascript, etc (probably)..
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=1olipop&show_icons=true&theme=cobalt)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1olipop&layout=compact?theme=cobalt)](https://github.com/1olipop/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1olipop&layout=compact)](https://github.com/1olipop/github-readme-stats)
 
 ### 💬 Connect
 
-[![Discord](https://cdn.discordapp.com/attachments/830759488687570964/852396649769730048/discord.png)](https://discord.gg/XJcThGs4Pu)
+[![Discord](https://cdn.discordapp.com/attachments/830759488687570964/852396649769730048/discord.png?size=100)](https://discord.gg/XJcThGs4Pu)
 [![Twitter](https://emoji.gg/assets/emoji/7474_twitter.png)](https://twitter.com/1olipop)
 
 <!--
