@@ -9,7 +9,7 @@
 # 💬 Connect
 
 [![Twitter](https://emoji.gg/assets/emoji/7474_twitter.png)](https://twitter.com/1olipop)<br>
-Or maybe [Discord?](https://discord.gg/XJcThGs4Pu)
+Or maybe [Discord?](https://discordapp.com/users/709613711475605544)
 
 <!--
 **1olipop/1olipop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
