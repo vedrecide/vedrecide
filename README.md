@@ -1,3 +1,11 @@
 # <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://emoji.gg/assets/emoji/6949-gawrgurawavebackgroundless.png" width="60px" height="60px" alt="GawrGuraWaveBackgroundless"></a> Howdy!
 
-I really don't feel like updating this `README.md` file every week or in every fortnight so lets make it stay as it
+Informally known as Lollipop, I'm a mediocre developer having a decent knowledge about [Python](https://python.org) and [Typescript](https://typescriptlang.org) and basically comfortable with Javascript Frontend Frameworks such as [React.js](https://reactjs.org) or [Vue](https://v3.vuejs.org)
+
+|Statistics|Languages|
+|:---:|:---:|
+|![My GitHub stats](https://github-readme-stats.vercel.app/api?username=1olipop&show_icons=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1olipop&layout=compact&langs_count=6)|
+
+|Trophy Collection|
+|:---:|
+|![Trophy](https://github-profile-trophy.vercel.app/?username=1olipop&row=1&margin-w=5)|
