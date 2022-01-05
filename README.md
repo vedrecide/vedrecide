@@ -1,6 +1,6 @@
 # <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://emoji.gg/assets/emoji/6949-gawrgurawavebackgroundless.png" width="60px" height="60px" alt="GawrGuraWaveBackgroundless"></a> Howdy!
 
-Informally known as Lollipop, I'm a mediocre developer having a decent knowledge about [Python](https://python.org) and [Typescript](https://typescriptlang.org) and basically comfortable with Javascript Frontend Frameworks such as [React.js](https://reactjs.org) or [Vue](https://v3.vuejs.org)
+Informally known as Vedrecide, I'm a mediocre developer having a decent knowledge about [Python](https://python.org) and [Typescript](https://typescriptlang.org) and basically comfortable with Javascript Frontend Frameworks such as [React.js](https://reactjs.org) or [Vue](https://v3.vuejs.org)
 
 |Statistics|Languages|
 |:---:|:---:|
