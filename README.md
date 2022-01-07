@@ -4,8 +4,8 @@ Informally known as Vedrecide, I'm a mediocre developer having a decent knowledg
 
 |Statistics|Languages|
 |:---:|:---:|
-|![My GitHub stats](https://github-readme-stats.vercel.app/api?username=1olipop&show_icons=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1olipop&layout=compact&langs_count=6)|
+|![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vedrecide&show_icons=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedrecide&layout=compact)|
 
 |Trophy Collection|
 |:---:|
-|![Trophy](https://github-profile-trophy.vercel.app/?username=1olipop&row=1&margin-w=5)|
+|![Trophy](https://github-profile-trophy.vercel.app/?username=vedrecide&row=1&margin-w=5)|
